@@ -13,7 +13,7 @@ email = 'joewhiteheadm@gmail.com'
 [params.homeInfoParams]
 Title = "Joe Moon Whitehead"
 Content = "Confirmed Software Engineer - University of Lancaster CompSci Graduate - Writing & Coding"
-imageUrl = "/jmw.jpeg"                                                                                # optional
+imageUrl = "/jmw2.jpeg"                                                                               # optional
 imageTitle = "Joe Moon Whitehead"                                                                     # optional
 imageWidth = 212                                                                                      # custom size
 imageHeight = 212                                                                                     # custom size
